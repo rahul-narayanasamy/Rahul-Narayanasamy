@@ -115,6 +115,14 @@
 
 ---
 
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahul-Narayanasamy/Rahul-Narayanasamy/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Software%20Engineer%20%40%20EPAM-00cec9?style=for-the-badge&labelColor=00cec9" />
