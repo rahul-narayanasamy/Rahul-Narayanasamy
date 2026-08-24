@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rahul%20Narayanasamy&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%" alt="Hi, I'm Rahul"/>
+<img src="./git-rahul.png" width="100%" alt="Hi, I'm Rahul"/>
 
 <p><em><strong>I'm a Software Engineer with 8+ years of experience building scalable web products. I specialize in React, TypeScript, and interfaces that feel fast, precise, and cinematic — from enterprise data grids to motion-led product surfaces.</strong></em></p> <br>
 
