@@ -118,12 +118,12 @@
 ### Stats & Contributions
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul-Narayanasamy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Narayanasamy&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rahul-Narayanasamy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rahul-Narayanasamy&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rahul-Narayanasamy&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Narayanasamy&theme=tokyonight"/>
 </p>
 
 <p align="center">
