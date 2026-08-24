@@ -115,27 +115,6 @@
 
 ---
 
-### Stats & Contributions
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rahul-Narayanasamy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rahul-Narayanasamy&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Narayanasamy&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Narayanasamy&theme=tokyo-night&area=true"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rahul-Narayanasamy/Rahul-Narayanasamy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Software%20Engineer%20%40%20EPAM-00cec9?style=for-the-badge&labelColor=00cec9" />
