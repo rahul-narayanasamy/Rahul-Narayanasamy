@@ -11,12 +11,12 @@
   <img src="https://img.shields.io/badge/AI%20Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 <p>
-  <a href="mailto:rahulkishore227@gmail.com"><img src="https://img.shields.io/badge/✉%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rahul-narayanasamy-51ab41143"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rahul-narayanasamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://medium.com/@rahulkishore227"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://github.com/rahul-narayanasamy/rahul-narayanasamy/blob/main/resume_rahul.pdf"><img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-  <a href="https://rahul-narayanasamy.github.io/"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="mailto:rahulkishore227@gmail.com"><img src="https://img.shields.io/badge/✉%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rahul-narayanasamy-51ab41143"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahul-narayanasamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@rahulkishore227"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahul-narayanasamy/rahul-narayanasamy/blob/main/resume_rahul.pdf"><img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://rahul-narayanasamy.github.io/"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=rahul-narayanasamy&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
@@ -31,7 +31,7 @@
 * Specializing in **React, TypeScript, Next.js**, and production-grade frontend architecture
 * Exploring **AI agents, multi-agent orchestration**, and intelligent developer workflows
 * Previously spent 4 years at **Syncfusion** building enterprise UI components and data grids
-* Email: [rahulkishore227@gmail.com](mailto:rahulkishore227@gmail.com)
+* Email: <a href="mailto:rahulkishore227@gmail.com" target="_blank" rel="noopener noreferrer">rahulkishore227@gmail.com</a>
 
 ---
 
@@ -78,7 +78,7 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white" />
       </p>
-      <a href="https://github.com/rahul-narayanasamy/apogee-gsap-landing"><img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahul-narayanasamy/apogee-gsap-landing"><img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h4>Vault</h4>
@@ -88,7 +88,7 @@
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
-      <a href="https://github.com/rahul-narayanasamy/vault-expense-tracker"><img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahul-narayanasamy/vault-expense-tracker"><img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <a href="https://github.com/rahul-narayanasamy/terminal-portfolio"><img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://github.com/rahul-narayanasamy/terminal-portfolio"><img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h4>Let's Collaborate</h4>
@@ -109,7 +109,7 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square" />
       </p>
-      <a href="mailto:rahulkishore227@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a target="_blank" rel="noopener noreferrer" href="mailto:rahulkishore227@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </td>
   </tr>
 </table>
