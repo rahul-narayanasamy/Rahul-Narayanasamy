@@ -16,6 +16,7 @@
   <a href="https://github.com/rahul-narayanasamy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://medium.com/@rahulkishore227"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://github.com/rahul-narayanasamy/rahul-narayanasamy/blob/main/resume_rahul.pdf"><img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://rahul-narayanasamy.github.io/"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=rahul-narayanasamy&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
