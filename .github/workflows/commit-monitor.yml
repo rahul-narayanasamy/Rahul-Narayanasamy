@@ -1,0 +1,57 @@
+name: Commit Monitor
+
+on:
+  schedule:
+    - cron: "23 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Keep existing output SVGs
+        run: |
+          mkdir -p output-keep
+          if git ls-remote --exit-code --heads origin output; then
+            git fetch origin output
+            git checkout origin/output -- . 2>/dev/null || true
+            cp ./*.svg output-keep/ 2>/dev/null || true
+            git checkout main
+          fi
+
+      - uses: actions/checkout@v4
+        with:
+          repository: rahul-narayanasamy/ekg-monitor
+          ref: v1
+          path: ekg-monitor
+
+      - name: Render EKG SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd ekg-monitor
+          python3 ekg.py fetch --login rahul-narayanasamy --out contrib.json
+          python3 ekg.py render --data contrib.json --out dist --name ekg \
+            --login rahul-narayanasamy --themes dark,light --static
+
+      - name: Publish to output branch
+        run: |
+          staging=$(mktemp -d)
+          cp output-keep/*.svg "$staging/" 2>/dev/null || true
+          cp ekg-monitor/dist/*.svg "$staging/"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output-publish
+          git rm -rf . >/dev/null 2>&1 || true
+          cp "$staging"/*.svg .
+          git add ./*.svg
+          git commit -m "Update commit monitor SVGs $(date -u +%F)"
+          git branch -M output
+          git push -f origin output
